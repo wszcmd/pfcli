@@ -1,5 +1,5 @@
 {
-  "name": "pfcli",
+  "name": "@pfan/pfcli",
   "version": "0.0.1",
   "description": "a sample cli",
   "bin": "index.js",
